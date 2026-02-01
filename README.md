@@ -88,7 +88,11 @@ Bu çalışma özellikle aşağıdaki alanlar için uygundur:
 - 🛡️ Savunma & havacılık Ar-Ge çalışmaları
 
 ## Demo Video
-video linki
+
+
+https://github.com/user-attachments/assets/a8210773-415b-45ec-aae2-210911a9bfd8
+
+
 
 ## Teknik Notlar
 
